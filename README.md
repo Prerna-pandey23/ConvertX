@@ -1,34 +1,59 @@
-# ConvertX
-Modern Currency Converter & Travel Finance Toolkit built using HTML, CSS & JavaScript.
 # 🌍 ConvertX
 
-A modern, responsive Currency Converter built using HTML, CSS and JavaScript.
+<p align="center">
 
-It provides real-time exchange rates using a live Currency API and supports all major world currencies with country flags.
+Modern Currency Converter & Travel Finance Toolkit built using **HTML, CSS & JavaScript**.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+
+</p>
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
-🔗 https://convert-x-jet.vercel.app
+👉 **https://convert-x-jet.vercel.app**
 
 ---
 
-## ✨ Features
+# 📷 Project Preview
 
-- 🌍 170+ Currencies
+## 🖥 Desktop
+
+![Desktop Preview](screenshots/desktop.png)
+
+---
+
+## 📱 Mobile
+
+![Mobile Preview](screenshots/mobile.png)
+
+---
+
+# ✨ Features
+
+- 🌍 170+ Supported Currencies
+- 💹 Live Exchange Rates
 - 🚩 Country Flags
-- 🔄 Swap Currencies
-- 📈 Live Exchange Rates
+- 🔄 One Click Currency Swap
 - 📋 Copy Conversion Result
 - 🌙 Dark / Light Theme
-- 📱 Fully Responsive
+- 📱 Fully Responsive Design
 - ⚡ Fast & Lightweight
 - 🔄 Auto Update on Currency Change
+- 🎯 Clean & Modern UI
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - HTML5
 - CSS3
@@ -38,24 +63,13 @@ It provides real-time exchange rates using a live Currency API and supports all 
 
 ---
 
-## 📷 Screenshots
+# 📂 Folder Structure
 
-### Desktop
-
-![Desktop](screenshots/desktop.png)
-
-### Mobile
-
-![Mobile](screenshots/mobile.png)
-
----
-
-## 📂 Project Structure
-
-```
+```text
 ConvertX
 │
-├── index.html
+├── assets
+│
 ├── CSS
 │   ├── style.css
 │   ├── hero.css
@@ -65,44 +79,52 @@ ConvertX
 │   └── responsive.css
 │
 ├── js
-│   ├── app.js
-│   ├── codes.js
-│   ├── theme.js
-│   ├── flags.js
-│   ├── history.js
-│   ├── storage.js
-│   ├── ui.js
-│   └── api.js
 │
 ├── screenshots
+│
+├── index.html
 └── README.md
 ```
 
 ---
 
-## 🎯 Future Improvements
+# 🎯 Future Improvements
 
-- Currency History
-- Favorite Currencies
-- Offline Support
-- Exchange Rate Charts
-- Multi Currency Comparison
-- PWA Support
+- 📊 Exchange Rate Charts
+- ⭐ Favorite Currencies
+- 📜 Conversion History
+- 🌐 Offline Support
+- 📱 Progressive Web App (PWA)
+- 💱 Multi Currency Comparison
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Prerna Pandey**
 
-GitHub:
+### GitHub
+
 https://github.com/Prerna-pandey23
 
-LinkedIn:
+### LinkedIn
+
 https://www.linkedin.com/in/prerna-pandey-001a29294
 
 ---
 
-## ⭐ Support
+# ⭐ Show your Support
 
-If you like this project, don't forget to Star ⭐ this repository.
+If you found this project useful,
+
+⭐ **Please Star this Repository**
+
+It motivates me to build more awesome projects.
+
+---
+
+<p align="center">
+
+Made with ❤️ by Prerna Pandey
+
+</p>

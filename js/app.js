@@ -241,3 +241,40 @@ themeBtn.addEventListener("click", () => {
     }
 
 });
+
+// ===== PRELOADER =====
+
+window.addEventListener("load", () => {
+    const preloader = document.getElementById("preloader");
+
+    if (preloader) {
+        setTimeout(() => {
+            preloader.classList.add("hide");
+        }, 500);
+    }
+});
+
+/* ==========================
+   Scroll To Top
+========================== */
+
+const scrollBtn = document.getElementById("scrollTopBtn");
+
+window.addEventListener("scroll", () => {
+
+    if(window.scrollY > 300){
+        scrollBtn.style.display = "block";
+    }else{
+        scrollBtn.style.display = "none";
+    }
+
+});
+
+scrollBtn.addEventListener("click", () => {
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+
+});
